@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Temp.PcbDoc
+DocumentPath=FPGA Bank 0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,10 +87,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UISXJSTU
+DocumentUniqueId=YMNPRANB
 
 [Document4]
-DocumentPath=FPGA Bank 0.SchDoc
+DocumentPath=FPGA Bank 1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MXDWBXFL
 
 [Document5]
-DocumentPath=FPGA Bank 1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YMNPRANB
-
-[Document6]
 DocumentPath=FPGA Bank 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJOOAFHV
 
-[Document7]
+[Document6]
 DocumentPath=Clocks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBCDFAAT
 
-[Document8]
+[Document7]
 DocumentPath=EFM Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BADQLOUM
 
-[Document9]
+[Document8]
 DocumentPath=FPGA Config.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGYUNPWX
 
-[Document10]
+[Document9]
 DocumentPath=FPGA Bank 3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDQJSFVR
 
-[Document11]
+[Document10]
 DocumentPath=FPGA_VCC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CELOQWCA
 
-[Document12]
+[Document11]
 DocumentPath=FPGA Ground.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDFYGDSS
 
-[Document13]
+[Document12]
 DocumentPath=EFM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVQYDEVL
 
-[Document14]
+[Document13]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTVKDCQJ
 
-[Document15]
+[Document14]
 DocumentPath=SRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,41 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYFRWUFA
 
-[Document16]
-DocumentPath=FPGA Bank 0.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=SRAM.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
+[Document15]
 DocumentPath=EFM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document16]
 DocumentPath=Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOOVXRDJ
 
-[Document20]
+[Document17]
 DocumentPath=Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODNOTVSE
 
-[Document21]
+[Document18]
 DocumentPath=HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNFNUMAI
 
-[Document22]
+[Document19]
 DocumentPath=JoystickButtons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFWFDRJD
 
-[Document23]
+[Document20]
 DocumentPath=JoystickButtons.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document21]
 DocumentPath=HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document22]
 DocumentPath=FPGA Bank 1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document23]
 DocumentPath=Frame Buffer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,6 +428,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCVNBJSI
+
+[Document24]
+DocumentPath=VECTOR.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VJFPMQXO
+
+[Document25]
+DocumentPath=FPGA Bank 0.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=SRAM.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Document27]
 DocumentPath=Frame Buffer.Harness
@@ -498,7 +498,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=FPGA Bank 2.Harness
+DocumentPath=FPGA Bank 3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -513,40 +513,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document29]
-DocumentPath=VECTOR.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VJFPMQXO
-
-[Document30]
-DocumentPath=Top_Level.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UDRUFVPU
 
 [Configuration1]
 Name=Default Configuration
@@ -848,7 +814,7 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=950|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=SortOrder
@@ -1415,6 +1381,192 @@ UpdateCurrentModels=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Analog Devices Amplifiers and Linear Voltage References.IntLib
+ComponentDesignItemID0=REF196GSZ-REEL7
+ComponentSymbolReference0=REF196GSZ-REEL7
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Analog Devices Data Converters Digital-to-Analog Converters.IntLib
+ComponentDesignItemID1=AD5061BRJZ-1500RL7
+ComponentSymbolReference1=AD5061BRJZ-1500RL7
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Miscellaneous Connectors.IntLib
+ComponentDesignItemID2=BNC
+ComponentSymbolReference2=BNC
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Miscellaneous Connectors.IntLib
+ComponentDesignItemID3=Header 10X2
+ComponentSymbolReference3=Header 10X2
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Miscellaneous Connectors.IntLib
+ComponentDesignItemID4=Header 16X2
+ComponentSymbolReference4=Header 16X2
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Miscellaneous Connectors.IntLib
+ComponentDesignItemID5=Header 19X2
+ComponentSymbolReference5=Header 19X2
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Miscellaneous Connectors.IntLib
+ComponentDesignItemID6=Header 2
+ComponentSymbolReference6=Header 2
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Miscellaneous Connectors.IntLib
+ComponentDesignItemID7=Header 2X2
+ComponentSymbolReference7=Header 2X2
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Miscellaneous Connectors.IntLib
+ComponentDesignItemID8=Header 3
+ComponentSymbolReference8=Header 3
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Miscellaneous Connectors.IntLib
+ComponentDesignItemID9=Header 3X2
+ComponentSymbolReference9=Header 3X2
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Miscellaneous Connectors.IntLib
+ComponentDesignItemID10=Header 4X2
+ComponentSymbolReference10=Header 4X2
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Miscellaneous Connectors.IntLib
+ComponentDesignItemID11=Header 5X2
+ComponentSymbolReference11=Header 5X2
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Miscellaneous Connectors.IntLib
+ComponentDesignItemID12=Header 6X2
+ComponentSymbolReference12=Header 6X2
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Miscellaneous Connectors.IntLib
+ComponentDesignItemID13=Header 8X2
+ComponentSymbolReference13=Header 8X2
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Miscellaneous Devices.IntLib
+ComponentDesignItemID14=Cap Pol3
+ComponentSymbolReference14=Cap Pol3
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Miscellaneous Devices.IntLib
+ComponentDesignItemID15=Cap2
+ComponentSymbolReference15=Cap2
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Miscellaneous Devices.IntLib
+ComponentDesignItemID16=LED0
+ComponentSymbolReference16=LED0
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Miscellaneous Devices.IntLib
+ComponentDesignItemID17=XTAL
+ComponentSymbolReference17=XTAL
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Silicon Labs Energy Micro EFM32.IntLib
+ComponentDesignItemID18=EFM32GG990F1024-BGA112
+ComponentSymbolReference18=EFM32GG990F1024-BGA112
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Vector Library.IntLib
+ComponentDesignItemID19=ADP170AUJZ-1.2-r7
+ComponentSymbolReference19=ADP170AUJZ-1.2-r7
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Vector Library.IntLib
+ComponentDesignItemID20=ADP3339AKCZ-3.3-r7
+ComponentSymbolReference20=ADP3339AKCZ-3.3-r7
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Vector Library.IntLib
+ComponentDesignItemID21=CY7C1051DV33-10ZSXI
+ComponentSymbolReference21=CY7C1051DV33-10ZSXI
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Vector Library.IntLib
+ComponentDesignItemID22=FXO-HC736R-100
+ComponentSymbolReference22=FXO-HC736R-100
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Vector Library.IntLib
+ComponentDesignItemID23=HDMI_connector
+ComponentSymbolReference23=HDMI_connector
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Vector Library.IntLib
+ComponentDesignItemID24=MICRO-USB_CONNECTOR
+ComponentSymbolReference24=MICRO-USB_CONNECTOR
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Vector Library.IntLib
+ComponentDesignItemID25=S25FL129P0XMFI001
+ComponentSymbolReference25=S25FL129P0XMFI001
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Vector Library.IntLib
+ComponentDesignItemID26=SKQUCAA010
+ComponentSymbolReference26=SKQUCAA010
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Vector Library.IntLib
+ComponentDesignItemID27=switch-button
+ComponentSymbolReference27=switch-button
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Xilinx Spartan-6.IntLib
+ComponentDesignItemID28=XC6SLX45-2CSG324I
+ComponentSymbolReference28=XC6SLX45-2CSG324I
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name Only
+ComponentLibraryIdentifier29=Altium Content Vault
+ComponentDesignItemID29=CMP-1012-00002-1
+ComponentSymbolReference29=CMP-1012-00002-1
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name Only
+ComponentLibraryIdentifier30=Altium Content Vault
+ComponentDesignItemID30=CMP-1035-00001-1
+ComponentSymbolReference30=CMP-1035-00001-1
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
