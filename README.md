@@ -1,2 +1,4 @@
 # PCBdesign
-Her vil det snart komme mer informasjon om kretskortdesignet
+PCB design for V.E.C.T.O.R. -3000
+
+In Soviet Russia, board route you!
