@@ -56,6 +56,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CTWUWSHX
 
 [Document2]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg5.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWQMDFSV
+
+[Document3]
 DocumentPath=..\..\..\Projects\Temp\Joystick.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,23 +88,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAYKDMVX
-
-[Document3]
-DocumentPath=..\..\..\Projects\Temp\PSU.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OKEKHOTA
 
 [Document4]
 DocumentPath=..\..\..\Projects\Temp\PSU.SchLib
@@ -107,6 +107,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VYANKRUX
 
 [Document5]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg5.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IIQAHIMK
+
+[Document6]
 DocumentPath=..\..\..\Projects\Temp\Joystick.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUFYEOCH
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\Projects\Temp\SRAM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXYEISTN
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\Projects\Temp\HDMI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYOKMWVV
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\Projects\Temp\HDMI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCJRMFOS
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\Projects\Temp\Flash.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVMKBJNO
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\Projects\Temp\usb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYJIOJEU
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\Projects\Temp\Flash.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFGJFBGW
 
-[Document12]
+[Document13]
 DocumentPath=FPGA OSC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVLULYQO
 
-[Document13]
+[Document14]
 DocumentPath=..\..\..\Projects\Temp\FPGA OSC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFJGAKNV
 
-[Document14]
+[Document15]
 DocumentPath=..\..\..\Projects\Temp\button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATSEOXBE
 
-[Document15]
+[Document16]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg3.3.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SPOJDHKM
+
+[Document17]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg3.3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJCXOMAK
+
+[Document18]
+DocumentPath=..\..\..\Projects\Temp\EFM HOSC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ANUOIRBU
+
+[Document19]
 DocumentPath=..\..\..\Projects\Temp\button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,6 +360,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document20]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg1.2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MIAOQRPF
+
+[Document21]
+DocumentPath=..\..\..\Projects\Temp\Voltage Reg1.2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TOIKGSGE
+
+[Document22]
+DocumentPath=..\..\..\Projects\Temp\EFM LOSC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YGYQBADX
+
+[Document23]
+DocumentPath=..\..\..\Projects\Temp\EFM LOSC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IHGUTUGS
 
 [OutputGroup1]
 Name=Netlist Outputs
