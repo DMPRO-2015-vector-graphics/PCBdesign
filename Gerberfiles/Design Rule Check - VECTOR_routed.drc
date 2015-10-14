@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Temp\VECTOR_routed.PcbDoc
+Date     : 14/10/2015
+Time     : 14:23:16
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNetClass('HDMI')),(InNetClass('HDMI'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Region (0 hole(s)) Multi-Layer and 
+                     Pad PSU-(3904.716mil,3873.401mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Multi-Layer and 
+                     Pad PSU-(4119.283mil,3873.402mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 6.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 3.3E2 sq. mils
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 2.8E2 sq. mils
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 1.8E2 sq. mils
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 1.5E2 sq. mils
+   Violation between Isolated copper: Split Plane  (A5V)  on VCC. Dead copper detected. Copper area is : 1.3E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Ground. Dead copper detected. Copper area is : 2.8E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Ground. Dead copper detected. Copper area is : 1.3E2 sq. mils
+Rule Violations :8
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3.937mil) (InNetClass('Not_HDMI')),(InNetClass('Not_HDMI'))
+Rule Violations :0
+
+
+Violations Detected : 10
+Time Elapsed        : 00:00:03

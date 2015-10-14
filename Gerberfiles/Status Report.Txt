@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Temp.PrjPcb]
+   Generated File[VECTOR_routed-RoundHoles.TXT]
+   Generated File[VECTOR_routed-SlotHoles.TXT]
+   Generated File[VECTOR_routed.LDP]
+   Generated File[VECTOR_routed.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:03:41 On 14/10/2015
